@@ -9,3 +9,8 @@ Escribe la instrucción MIPS (no pseudoinstrucción) que puede realizar cada una
 3. Salvar (almacenar) el dato contenido en el registro $t0 en la dirección 0xE0001004
 
 4. Cargar el valor 0xF000E100 en el registro $t0
+
+
+Señor profesor, me han raptado los extraterrestres. Disculpe que la tarea no haya quedado 
+terminada.
+
